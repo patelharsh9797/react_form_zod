@@ -57,3 +57,7 @@
 .gap-2 {
   gap: 1rem;
 }
+
+.errorMsg {
+  color: rgb(233, 37, 37);
+}
